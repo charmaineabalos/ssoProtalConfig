@@ -1,0 +1,7 @@
+{
+  "realm": "externalusers",
+  "auth-server-url": "http://localhost:8099/auth",
+  "ssl-required": "none",
+  "resource": "claimant",
+  "public-client": true
+}
