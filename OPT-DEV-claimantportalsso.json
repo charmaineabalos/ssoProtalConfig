@@ -1,0 +1,7 @@
+{
+  "realm": "externalusers",
+  "auth-server-url": "https://auth.opt-dev.optimumui.com/auth",
+  "ssl-required": "none",
+  "resource": "claimant",
+  "public-client": true
+}
